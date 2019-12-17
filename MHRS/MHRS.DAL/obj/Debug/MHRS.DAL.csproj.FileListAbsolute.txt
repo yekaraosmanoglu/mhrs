@@ -1,0 +1,145 @@
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Yunus\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\emre.susler\source\repos\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\esMHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.DAL\obj\Debug\MHRS.DAL.pdb

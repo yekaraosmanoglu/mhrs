@@ -1,0 +1,35 @@
+C:\Users\Yunus\source\repos\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csprojAssemblyReference.cache
+C:\Users\Yunus\source\repos\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\source\repos\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\source\repos\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\source\repos\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.dll
+C:\Users\Yunus\source\repos\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.dll
+C:\Users\emre.susler\source\repos\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csprojAssemblyReference.cache
+C:\Users\emre.susler\source\repos\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emre.susler\source\repos\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.dll
+C:\Users\emre.susler\source\repos\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.Entities\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.Entities\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.Entities\obj\Debug\MHRS.Entities.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.Entities\obj\Debug\MHRS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.Entities\obj\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.Entities\obj\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.pdb
+C:\Users\Yunus Emre\Downloads\ElCamino_MHRS v14.04\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus Emre\Downloads\ElCamino_MHRS v14.04\MHRS\MHRS.Entities\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus Emre\Downloads\ElCamino_MHRS v14.04\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csprojAssemblyReference.cache
+C:\Users\Yunus Emre\Downloads\ElCamino_MHRS v14.04\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\Downloads\ElCamino_MHRS v14.04\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.dll
+C:\Users\Yunus Emre\Downloads\ElCamino_MHRS v14.04\MHRS\MHRS.Entities\obj\Debug\MHRS.Entities.pdb

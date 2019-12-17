@@ -1,0 +1,497 @@
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\Guna.UI.dll
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Burak\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\Guna.UI.dll
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\emre.susler\source\repos\MHRS v4\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\MHRS v6\MHRS v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\backup v6\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\emre.susler\source\repos\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\esMHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\Guna.UI.dll
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\MHRSv12.02\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\emre.karaosmanoglu\Desktop\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRS_SonHali\MHRSes\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRSv12.01\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Yunus\Desktop\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS\MHRS\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe.config
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.UIWinForm.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.BLL.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.Entities.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.pdb
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\bin\Debug\MHRS.DAL.dll.config
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktor.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsDoktorRandevuOlustur.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsEczaci.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsGiris.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHasta.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastalarim.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsHastaReceteGecmisi.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsKayitOl.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsMuayeneOlustur.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevuAl.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsRandevularim.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteOlustur.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.mhrsReceteSorgula.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.Properties.Resources.resources
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.csproj.CopyComplete
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.exe
+C:\Users\Burak\Desktop\MHRS\ElCamino_MHRS v14.04\MHRS\MHRS.UIWinForm\obj\Debug\MHRS.UIWinForm.pdb

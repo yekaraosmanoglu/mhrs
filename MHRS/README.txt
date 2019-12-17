@@ -1,0 +1,1 @@
+Projenin yanýnda gelen veritabanýný kurulumunu yaptýktan sona MHRS.DAL katmanýnda Setting'den connection ayarlarýnýzý yapýnýz.
